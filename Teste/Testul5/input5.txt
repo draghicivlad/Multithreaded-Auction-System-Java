@@ -1,0 +1,57 @@
+newBroker
+newBroker
+newBroker
+-
+newProdus;Mobila;2;Mobila Germania;200;2009;Bucatarie;Lemn
+newProdus;Mobila;13;MASA DE BIROU DIABLO;500;2020;Birou;Metal
+newProdus;Mobila;14;Canapea extensibilă Karup;800;2020;Sufragerie;Lemn
+newProdus;Mobila;15;Birou BDB27;1000;2019;Birou;Lemn
+newProdus;Mobila;16;CANAPEA GRI CARBUNE;1999;2020;Canapea;Textil
+newProdus;Mobila;17;PAT SINGLE CU SOMIERA INCLUSA;400;2020;Dormitor;Lemn
+newProdus;Mobila;18;Pat metalic tip baldachin Guido;1500;2020;Dormitor;Metal
+newProdus;Bijuterie;3;Inel Printesa;500;1890;Smarald;true
+newProdus;Bijuterie;8;Inel Printesa;500;1890;Smarald;true
+newProdus;Bijuterie;9;Colier plastic;20;2019;Plastic;false
+newProdus;Bijuterie;10;Cercei frumosi;200;1990;Aur;false
+newProdus;Bijuterie;11;Inel vechi;600;1850;Platina;false
+newProdus;Bijuterie;12;Bratara aur;400;1980;Aur;true
+newProdus;Bijuterie;27;Colier plastic;20;2019;Plastic;false
+newProdus;Bijuterie;28;Bratara Bijuterii aur Symbols;420;2020;Aur;false
+newProdus;Bijuterie;29;Bratara Fossil Sterling Silver;270;2019;Argint;false
+newProdus;Tablou;22;Gara Saint Lazare;950;1902;Claude Monet;ULEI
+newProdus;Tablou;23;Maci la Argenteuil;1200;1905;Claude Monet;TEMPERA
+newProdus;Tablou;24;The Banquet;730;1930;René Magritte;ULEI
+newProdus;Tablou;25;Batranul muzician;480;1860;Edouard Manet;TEMPERA
+newProdus;Tablou;26;Întoarcerea Fiului Risipitor;850;1650;Rembrandt;ULEI
+-
+newClient;PersoanaFizica;101;Andrei Ionescu;Strada Ciresului Nr. 15;18.02.1995
+newClient;PersoanaFizica;102;Maria Stancu;Strada Aeromodelului Nr. 2;17.08.2000
+newClient;PersoanaFizica;106;Mircea Rares;Strada Promoroaca Nr. 74;01.02.1972
+newClient;PersoanaFizica;107;Constantin Anima;Strada Redea Nr. 125;18.05.1968
+newClient;PersoanaJuridica;201;NetForce;Strada Lacului Nr. 152;SRL;15000
+newClient;PersoanaJuridica;207;OPTICA IRIS NICU S.R.L.;Strada Volumului 74;SRL;11000
+-
+solicitareLicitatie;201;17;600
+solicitareLicitatie;201;3;640
+solicitareLicitatie;201;22;1100
+solicitareLicitatie;201;26;1010
+solicitareLicitatie;106;28;580
+solicitareLicitatie;106;17;640
+solicitareLicitatie;106;11;730
+solicitareLicitatie;106;22;1150
+solicitareLicitatie;106;26;1000
+solicitareLicitatie;102;3;660
+solicitareLicitatie;102;26;1050
+solicitareLicitatie;102;28;610
+solicitareLicitatie;102;17;400
+solicitareLicitatie;102;22;1050
+solicitareLicitatie;201;3;550
+solicitareLicitatie;201;17;630
+solicitareLicitatie;201;11;800
+solicitareLicitatie;201;26;1050
+solicitareLicitatie;201;22;1070
+solicitareLicitatie;201;28;700
+solicitareLicitatie;101;26;800
+solicitareLicitatie;101;11;720
+solicitareLicitatie;101;22;1300
+solicitareLicitatie;101;28;800

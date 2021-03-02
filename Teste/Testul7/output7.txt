@@ -1,0 +1,459 @@
+Broker 1 a fost adaugat
+
+Broker 2 a fost adaugat
+
+Broker 3 a fost adaugat
+
+Broker 4 a fost adaugat
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a fost adaugat ca si CLIENT.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a fost adaugat ca si CLIENT.
+
+Client{id=203, nume='ADA ONLINE', adresa='Strada 1 Mai 308'}PersoanaJuridica{companie=SA, capitalSocial=18000.0} a fost adaugat ca si CLIENT.
+
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a fost adaugat ca si CLIENT.
+
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a fost adaugat ca si CLIENT.
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost adaugat ca si CLIENT.
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a fost adaugat ca si CLIENT.
+
+Produs{id=12, nume='Bratara aur', pretVanzare=0.0, pretMinim=400.0, an=1980}Bijuterie{material='Aur', piatraPretioasa=true} a fost adaugat ca PRODUS.
+
+Produs{id=27, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=28, nume='Bratara Bijuterii aur Symbols', pretVanzare=0.0, pretMinim=420.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=32, nume='Inel Aur 18k Diamante BLANCO'S', pretVanzare=0.0, pretMinim=1800.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=true} a fost adaugat ca PRODUS.
+
+Produs{id=33, nume='Bratara Aur 14k LEO MARCUS', pretVanzare=0.0, pretMinim=1300.0, an=2019}Bijuterie{material='Aur alb', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'} a fost adaugat ca PRODUS.
+
+Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'} a fost adaugat ca PRODUS.
+
+Produs{id=38, nume='ALBANO Dulap 2 usi culisante', pretVanzare=0.0, pretMinim=1470.0, an=2020}Mobila{tip='Dulap', material='Lemn&Metal'} a fost adaugat ca PRODUS.
+
+Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'} a fost adaugat ca PRODUS.
+
+Produs{id=40, nume='CLINTON Dulap 6 sertare, 3 usi', pretVanzare=0.0, pretMinim=1720.0, an=2019}Mobila{tip='Dulap', material='Metal'} a fost adaugat ca PRODUS.
+
+Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC} a fost adaugat ca PRODUS.
+
+Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC} a fost adaugat ca PRODUS.
+
+Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=22, nume='Gara Saint Lazare', pretVanzare=0.0, pretMinim=950.0, an=1902}Tablou{numePictor='Claude Monet', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=23, nume='Maci la Argenteuil', pretVanzare=0.0, pretMinim=1200.0, an=1905}Tablou{numePictor='Claude Monet', culori=TEMPERA} a fost adaugat ca PRODUS.
+
+Produs{id=24, nume='The Banquet', pretVanzare=0.0, pretMinim=730.0, an=1930}Tablou{numePictor='René Magritte', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=25, nume='Batranul muzician', pretVanzare=0.0, pretMinim=480.0, an=1860}Tablou{numePictor='Edouard Manet', culori=TEMPERA} a fost adaugat ca PRODUS.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a vazut produsele:
+	Produs{id=12, nume='Bratara aur', pretVanzare=0.0, pretMinim=400.0, an=1980}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=27, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false}
+	Produs{id=28, nume='Bratara Bijuterii aur Symbols', pretVanzare=0.0, pretMinim=420.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=32, nume='Inel Aur 18k Diamante BLANCO'S', pretVanzare=0.0, pretMinim=1800.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=33, nume='Bratara Aur 14k LEO MARCUS', pretVanzare=0.0, pretMinim=1300.0, an=2019}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=38, nume='ALBANO Dulap 2 usi culisante', pretVanzare=0.0, pretMinim=1470.0, an=2020}Mobila{tip='Dulap', material='Lemn&Metal'}
+	Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'}
+	Produs{id=40, nume='CLINTON Dulap 6 sertare, 3 usi', pretVanzare=0.0, pretMinim=1720.0, an=2019}Mobila{tip='Dulap', material='Metal'}
+	Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC}
+	Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC}
+	Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI}
+	Produs{id=22, nume='Gara Saint Lazare', pretVanzare=0.0, pretMinim=950.0, an=1902}Tablou{numePictor='Claude Monet', culori=ULEI}
+	Produs{id=23, nume='Maci la Argenteuil', pretVanzare=0.0, pretMinim=1200.0, an=1905}Tablou{numePictor='Claude Monet', culori=TEMPERA}
+	Produs{id=24, nume='The Banquet', pretVanzare=0.0, pretMinim=730.0, an=1930}Tablou{numePictor='René Magritte', culori=ULEI}
+	Produs{id=25, nume='Batranul muzician', pretVanzare=0.0, pretMinim=480.0, an=1860}Tablou{numePictor='Edouard Manet', culori=TEMPERA}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a vazut produsele:
+	Produs{id=12, nume='Bratara aur', pretVanzare=0.0, pretMinim=400.0, an=1980}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=27, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false}
+	Produs{id=28, nume='Bratara Bijuterii aur Symbols', pretVanzare=0.0, pretMinim=420.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=32, nume='Inel Aur 18k Diamante BLANCO'S', pretVanzare=0.0, pretMinim=1800.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=33, nume='Bratara Aur 14k LEO MARCUS', pretVanzare=0.0, pretMinim=1300.0, an=2019}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=38, nume='ALBANO Dulap 2 usi culisante', pretVanzare=0.0, pretMinim=1470.0, an=2020}Mobila{tip='Dulap', material='Lemn&Metal'}
+	Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'}
+	Produs{id=40, nume='CLINTON Dulap 6 sertare, 3 usi', pretVanzare=0.0, pretMinim=1720.0, an=2019}Mobila{tip='Dulap', material='Metal'}
+	Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC}
+	Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC}
+	Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI}
+	Produs{id=22, nume='Gara Saint Lazare', pretVanzare=0.0, pretMinim=950.0, an=1902}Tablou{numePictor='Claude Monet', culori=ULEI}
+	Produs{id=23, nume='Maci la Argenteuil', pretVanzare=0.0, pretMinim=1200.0, an=1905}Tablou{numePictor='Claude Monet', culori=TEMPERA}
+	Produs{id=24, nume='The Banquet', pretVanzare=0.0, pretMinim=730.0, an=1930}Tablou{numePictor='René Magritte', culori=ULEI}
+	Produs{id=25, nume='Batranul muzician', pretVanzare=0.0, pretMinim=480.0, an=1860}Tablou{numePictor='Edouard Manet', culori=TEMPERA}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a vazut produsele:
+	Produs{id=12, nume='Bratara aur', pretVanzare=0.0, pretMinim=400.0, an=1980}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=27, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false}
+	Produs{id=28, nume='Bratara Bijuterii aur Symbols', pretVanzare=0.0, pretMinim=420.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=32, nume='Inel Aur 18k Diamante BLANCO'S', pretVanzare=0.0, pretMinim=1800.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=33, nume='Bratara Aur 14k LEO MARCUS', pretVanzare=0.0, pretMinim=1300.0, an=2019}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=38, nume='ALBANO Dulap 2 usi culisante', pretVanzare=0.0, pretMinim=1470.0, an=2020}Mobila{tip='Dulap', material='Lemn&Metal'}
+	Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'}
+	Produs{id=40, nume='CLINTON Dulap 6 sertare, 3 usi', pretVanzare=0.0, pretMinim=1720.0, an=2019}Mobila{tip='Dulap', material='Metal'}
+	Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC}
+	Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC}
+	Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI}
+	Produs{id=22, nume='Gara Saint Lazare', pretVanzare=0.0, pretMinim=950.0, an=1902}Tablou{numePictor='Claude Monet', culori=ULEI}
+	Produs{id=23, nume='Maci la Argenteuil', pretVanzare=0.0, pretMinim=1200.0, an=1905}Tablou{numePictor='Claude Monet', culori=TEMPERA}
+	Produs{id=24, nume='The Banquet', pretVanzare=0.0, pretMinim=730.0, an=1930}Tablou{numePictor='René Magritte', culori=ULEI}
+	Produs{id=25, nume='Batranul muzician', pretVanzare=0.0, pretMinim=480.0, an=1860}Tablou{numePictor='Edouard Manet', culori=TEMPERA}
+Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=0} a fost creata.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=0}.
+
+Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=0} a fost creata.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=0}.
+
+Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=0} a fost creata.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=0}.
+
+Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=0} a fost creata.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=0}.
+
+Licitatie{id=1004, nrDoritParticipanti=4, idProdus=41, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a fost asociat cu Broker 4.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=4, idProdus=41, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=0}.
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a fost asociat cu Broker 4.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=0}.
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=4, idProdus=41, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1006, nrDoritParticipanti=3, idProdus=12, nrPasiMaxim=4, nrPasiActual=0} a fost creata.
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1006, nrDoritParticipanti=3, idProdus=12, nrPasiMaxim=4, nrPasiActual=0}.
+
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a fost asociat cu Broker 4.
+	Participa la Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=0}.
+
+Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=1}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 662.833510338184 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=1}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 94.36863330510057 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=1}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 744.7775710182025 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=1}
+Licitatie{id=1007, nrDoritParticipanti=2, idProdus=40, nrPasiMaxim=4, nrPasiActual=0} a fost creata.
+
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1007, nrDoritParticipanti=2, idProdus=40, nrPasiMaxim=4, nrPasiActual=0}.
+
+Pretul maxim din pasul 1: 744.7775710182025 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=2}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 1072.8197254660447 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=2}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 804.8391428426572 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=2}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 1135.1211423866096 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=2}
+Pretul maxim din pasul 2: 1135.1211423866096 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=3}
+
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=0}.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 1137.0377105983948 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=3}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 1161.846273398664 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=3}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 1289.3049385544732 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=3}
+Pretul maxim din pasul 3: 1289.3049385544732 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=4}
+
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=0}.
+
+Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=1}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 1318.2395449426315 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=4}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 1426.6020910711293 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=4}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 1397.106073207779 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=4}
+Pretul maxim din pasul 4: 1426.6020910711293 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=4}
+
+Pasul 5 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=5}
+
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=0}.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 58.200285566493996 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 4.978184873121949 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=1}
+Pretul maxim din pasul 1: 58.200285566493996 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=2}
+
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 1427.7978513441126 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=5}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 1480.202075515967 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=5}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 1482.9803615513188 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=5}
+Pretul maxim din pasul 5: 1482.9803615513188 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=5}
+
+Pasul 6 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=6}
+
+Licitatie{id=1008, nrDoritParticipanti=4, idProdus=17, nrPasiMaxim=4, nrPasiActual=0} a fost creata.
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1008, nrDoritParticipanti=4, idProdus=17, nrPasiMaxim=4, nrPasiActual=0}.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 103.15331838287679 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=2}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 297.0152392255801 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=2}
+Pretul maxim din pasul 2: 297.0152392255801 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=3}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=0}.
+
+Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=1}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 1483.3213812354006 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=6}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 1504.9413291137078 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=6}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 1506.2341935600305 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=6}
+Pretul maxim din pasul 6: 1506.2341935600305 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=6}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=0}.
+
+Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=1}
+
+Licitatie{id=1001, nrDoritParticipanti=3, idProdus=18, nrPasiMaxim=6, nrPasiActual=7} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0}
+	S-a vandut Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'} la pretul 1506.2341935600305
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 23.628989378343093 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 44.04472915770098 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 27.816709936355018 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 10.015541939272643 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=1}
+Pretul maxim din pasul 1: 44.04472915770098 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=2}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 414.31538636949176 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=3}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 406.0454736747455 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=3}
+Pretul maxim din pasul 3: 414.31538636949176 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=4}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 47.00430680142062 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=2}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 69.47956234738328 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=2}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 66.76845052047882 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=2}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 48.0702966504471 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=2}
+Pretul maxim din pasul 2: 69.47956234738328 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=3}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=4, idProdus=41, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 752.4012247821553 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=1}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 186.06030521443986 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=1}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 510.3079763342645 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=1}
+Pretul maxim din pasul 1: 752.4012247821553 din: Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=2}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=1}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 70.31585118550883 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=3}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 75.43683087977303 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=3}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 88.48891568911374 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=3}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 73.42991598293412 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=3}
+Pretul maxim din pasul 3: 88.48891568911374 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=4}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 479.36753760708336 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=4}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 438.779749384159 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=4}
+Pretul maxim din pasul 4: 479.36753760708336 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=4}
+
+Pasul 5 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=5}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} s-a retras din:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=4}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 89.61506708263991 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=4}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 90.59244841073132 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=4}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 91.19442624009183 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=4}
+Pretul maxim din pasul 4: 91.19442624009183 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=4}
+
+Pasul 5 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=5}
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 46.501593366855396 in:
+	Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 31.02003327548061 in:
+	Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 36.24363227419496 in:
+	Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=1}
+Pretul maxim din pasul 1: 46.501593366855396 din: Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 1115.453583195676 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=2}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 1365.8271779867077 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=2}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 1281.7950712017669 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=2}
+Pretul maxim din pasul 2: 1365.8271779867077 din: Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=3}
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 60.23026858930186 in:
+	Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 123.1484054018573 in:
+	Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 63.591166738559 in:
+	Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=2}
+Pretul maxim din pasul 2: 123.1484054018573 din: Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=3}
+
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 92.9285757809644 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=5}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 97.34337204467452 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=5}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 92.79414444839983 in:
+	Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=5}
+Pretul maxim din pasul 5: 97.34337204467452 din: Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=5}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 482.289760217215 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=5}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 516.9033136648943 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=5}
+Pretul maxim din pasul 5: 516.9033136648943 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=5}
+
+Licitatie{id=1003, nrDoritParticipanti=2, idProdus=39, nrPasiMaxim=5, nrPasiActual=6} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0}
+	S-a vandut Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'} la pretul 516.9033136648943
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a oferit pretul 142.0537301440794 in:
+	Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 171.03895513453097 in:
+	Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 202.6753686651138 in:
+	Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=3}
+Pretul maxim din pasul 3: 202.6753686651138 din: Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=3}
+
+Licitatie{id=1005, nrDoritParticipanti=3, idProdus=29, nrPasiMaxim=3, nrPasiActual=4} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0}
+	S-a vandut Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false} la pretul 202.6753686651138
+Licitatie{id=1002, nrDoritParticipanti=4, idProdus=31, nrPasiMaxim=5, nrPasiActual=6} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0}
+	S-a vandut Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false} la pretul 97.34337204467452
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 1624.2501239164687 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=3}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 1520.1208039848561 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=3}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 1451.7810321975003 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=3}
+Pretul maxim din pasul 3: 1624.2501239164687 din: Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=4}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 1761.9914995725178 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=4}
+Client{id=204, nume='MEDA PROD DISTRIBUTION SA', adresa='Strada Lugoj 37'}PersoanaJuridica{companie=SA, capitalSocial=51000.0} a oferit pretul 1662.9702472362605 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=4}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 1685.2018446334084 in:
+	Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=4}
+Pretul maxim din pasul 4: 1761.9914995725178 din: Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=4}
+
+Licitatie{id=1000, nrDoritParticipanti=3, idProdus=25, nrPasiMaxim=4, nrPasiActual=5} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0}
+	S-a vandut Produs{id=25, nume='Batranul muzician', pretVanzare=0.0, pretMinim=480.0, an=1860}Tablou{numePictor='Edouard Manet', culori=TEMPERA} la pretul 1761.9914995725178

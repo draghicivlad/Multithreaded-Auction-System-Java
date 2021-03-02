@@ -1,0 +1,61 @@
+newBroker
+newBroker
+newBroker
+-
+newClient;PersoanaFizica;105;Marius Vasilescu;Strada Graţioasa Nr. 12;08.12.1999
+newClient;PersoanaFizica;106;Mircea Rares;Strada Promoroaca Nr. 74;01.02.1972
+newClient;PersoanaJuridica;201;NetForce;Strada Lacului Nr. 152;SRL;15000
+newClient;PersoanaJuridica;202;M COPY SRL;Strada Lamark 7;SRL;8000
+newClient;PersoanaJuridica;203;ADA ONLINE;Strada 1 Mai 308;SA;18000
+newClient;PersoanaFizica;101;Andrei Ionescu;Strada Ciresului Nr. 15;18.02.1995
+-
+newProdus;Mobila;18;Pat metalic tip baldachin Guido;1500;2020;Dormitor;Metal
+newProdus;Mobila;38;ALBANO Dulap 2 usi culisante;1470;2020;Dulap;Lemn&Metal
+newProdus;Mobila;39;CAROLINE Divizor optional;400;2020;Dulap;Lemn
+newProdus;Mobila;40;CLINTON Dulap 6 sertare, 3 usi;1720;2019;Dulap;Metal
+newProdus;Tablou;4;Mocanul;1000;1867;Nicolae Grigorescu;ULEI
+newProdus;Tablou;5;Maternitate;900;1866;Nicolae Grigorescu;ULEI
+newProdus;Tablou;6;Autoportret;1100;1868;Nicolae Grigorescu;ULEI
+newProdus;Tablou;7;Portret de femeie;800;1870;Nicolae Grigorescu;TEMPERA
+newProdus;Tablou;19;Tablou Canvas - New York;200;2018;Tablomag;TEMPERA
+newProdus;Tablou;20;TABLOU METAL 3D WORLD MAP;250;2018;Tablomag;ACRILIC
+newProdus;Bijuterie;30;Pandantiv Bijuterie Aur Fashion;300;2018;Aur alb;false
+newProdus;Bijuterie;31;Cercei Bijuterii Argint Symbols;50;2019;Argint;false
+newProdus;Bijuterie;32;Inel Aur 18k Diamante BLANCO'S;1800;2020;Aur;true
+newProdus;Bijuterie;33;Bratara Aur 14k LEO MARCUS;1300;2019;Aur alb;false
+newProdus;Bijuterie;34;Inel Aur 18k Savorite DERUVO;3500;2019;Aur;true
+newProdus;Bijuterie;35;Inel Argint 925 Rodolite;490;2017;Argint;true
+newProdus;Bijuterie;36;Inel Argint 925 Smaralde;520;2019;Argint;true
+newProdus;Bijuterie;37;Inel Aur 18k Diamante, Ametist DERUVO;2200;2019;Aur;true
+newProdus;Mobila;13;MASA DE BIROU DIABLO;500;2020;Birou;Metal
+newProdus;Mobila;14;Canapea extensibilă Karup;800;2020;Sufragerie;Lemn
+newProdus;Mobila;15;Birou BDB27;1000;2019;Birou;Lemn
+-
+afisareProduse;201
+afisareProduse;101
+-
+solicitareLicitatie;202;20;350
+solicitareLicitatie;202;39;560
+solicitareLicitatie;202;19;290
+solicitareLicitatie;202;4;1200
+solicitareLicitatie;202;13;620
+solicitareLicitatie;106;39;610
+solicitareLicitatie;106;37;2400
+solicitareLicitatie;106;19;190
+solicitareLicitatie;106;20;375
+solicitareLicitatie;106;4;1100
+solicitareLicitatie;203;18;1750
+solicitareLicitatie;203;13;600
+solicitareLicitatie;203;37;1800
+solicitareLicitatie;203;4;1230
+solicitareLicitatie;203;20;270
+solicitareLicitatie;203;14;900
+solicitareLicitatie;105;19;270
+solicitareLicitatie;105;4;1320
+solicitareLicitatie;105;13;650
+solicitareLicitatie;105;20;300
+solicitareLicitatie;105;39;550
+solicitareLicitatie;202;39;570
+solicitareLicitatie;202;4;1240
+solicitareLicitatie;202;37;2340
+solicitareLicitatie;202;13;570

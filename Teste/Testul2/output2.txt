@@ -1,0 +1,485 @@
+Broker 1 a fost adaugat
+
+Broker 2 a fost adaugat
+
+Broker 3 a fost adaugat
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost adaugat ca si CLIENT.
+
+Client{id=105, nume='Marius Vasilescu', adresa='Strada Graţioasa Nr. 12'}PersoanaFizica{dataNastere='08.12.1999'} a fost adaugat ca si CLIENT.
+
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a fost adaugat ca si CLIENT.
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a fost adaugat ca si CLIENT.
+
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a fost adaugat ca si CLIENT.
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost adaugat ca si CLIENT.
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a fost adaugat ca si CLIENT.
+
+Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA} a fost adaugat ca PRODUS.
+
+Produs{id=19, nume='Tablou Canvas - New York', pretVanzare=0.0, pretMinim=200.0, an=2018}Tablou{numePictor='Tablomag', culori=TEMPERA} a fost adaugat ca PRODUS.
+
+Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC} a fost adaugat ca PRODUS.
+
+Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC} a fost adaugat ca PRODUS.
+
+Produs{id=16, nume='CANAPEA GRI CARBUNE', pretVanzare=0.0, pretMinim=1999.0, an=2020}Mobila{tip='Canapea', material='Textil'} a fost adaugat ca PRODUS.
+
+Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'} a fost adaugat ca PRODUS.
+
+Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'} a fost adaugat ca PRODUS.
+
+Produs{id=38, nume='ALBANO Dulap 2 usi culisante', pretVanzare=0.0, pretMinim=1470.0, an=2020}Mobila{tip='Dulap', material='Lemn&Metal'} a fost adaugat ca PRODUS.
+
+Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'} a fost adaugat ca PRODUS.
+
+Produs{id=40, nume='CLINTON Dulap 6 sertare, 3 usi', pretVanzare=0.0, pretMinim=1720.0, an=2019}Mobila{tip='Dulap', material='Metal'} a fost adaugat ca PRODUS.
+
+Produs{id=28, nume='Bratara Bijuterii aur Symbols', pretVanzare=0.0, pretMinim=420.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a vazut produsele:
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+	Produs{id=19, nume='Tablou Canvas - New York', pretVanzare=0.0, pretMinim=200.0, an=2018}Tablou{numePictor='Tablomag', culori=TEMPERA}
+	Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC}
+	Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC}
+	Produs{id=16, nume='CANAPEA GRI CARBUNE', pretVanzare=0.0, pretMinim=1999.0, an=2020}Mobila{tip='Canapea', material='Textil'}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=38, nume='ALBANO Dulap 2 usi culisante', pretVanzare=0.0, pretMinim=1470.0, an=2020}Mobila{tip='Dulap', material='Lemn&Metal'}
+	Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'}
+	Produs{id=40, nume='CLINTON Dulap 6 sertare, 3 usi', pretVanzare=0.0, pretMinim=1720.0, an=2019}Mobila{tip='Dulap', material='Metal'}
+	Produs{id=28, nume='Bratara Bijuterii aur Symbols', pretVanzare=0.0, pretMinim=420.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a vazut produsele:
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+	Produs{id=19, nume='Tablou Canvas - New York', pretVanzare=0.0, pretMinim=200.0, an=2018}Tablou{numePictor='Tablomag', culori=TEMPERA}
+	Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC}
+	Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC}
+	Produs{id=16, nume='CANAPEA GRI CARBUNE', pretVanzare=0.0, pretMinim=1999.0, an=2020}Mobila{tip='Canapea', material='Textil'}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=38, nume='ALBANO Dulap 2 usi culisante', pretVanzare=0.0, pretMinim=1470.0, an=2020}Mobila{tip='Dulap', material='Lemn&Metal'}
+	Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'}
+	Produs{id=40, nume='CLINTON Dulap 6 sertare, 3 usi', pretVanzare=0.0, pretMinim=1720.0, an=2019}Mobila{tip='Dulap', material='Metal'}
+	Produs{id=28, nume='Bratara Bijuterii aur Symbols', pretVanzare=0.0, pretMinim=420.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+Licitatie{id=1000, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=0} a fost creata.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=0}.
+
+Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=0} a fost creata.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=0}.
+
+Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=0} a fost creata.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=0}.
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=0}.
+
+Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=0} a fost creata.
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=0}.
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=0} a fost creata.
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=0}.
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=0}.
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=0}.
+
+Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=1}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 44.39252973570758 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=1}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 463.3075850963639 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=1}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=0}.
+
+Pretul maxim din pasul 1: 463.3075850963639 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=2}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 1001.9419848814878 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=2}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 667.6913810018501 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=2}
+Pretul maxim din pasul 2: 1001.9419848814878 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=3}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 1102.8049664748385 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=3}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 1057.1133144777639 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=3}
+Pretul maxim din pasul 3: 1102.8049664748385 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=4}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=0}.
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 1184.0279387133828 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=4}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 1305.3969817548434 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=4}
+Pretul maxim din pasul 4: 1305.3969817548434 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=4}
+
+Pasul 5 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=5}
+
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=0}.
+
+Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=1}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 1367.033907570486 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=5}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 1337.7894951953638 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=5}
+Pretul maxim din pasul 5: 1367.033907570486 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=5}
+
+Pasul 6 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=6}
+
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} nu participa in licitatie!
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=6} este in desfasurare!
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 72.40772968347666 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 111.56549637738384 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 98.52628084340418 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=1}
+Pretul maxim din pasul 1: 111.56549637738384 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=1}
+
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=0}.
+
+Pasul 2 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=2}
+
+Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=1}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 1419.816019911657 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=6}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 1413.0228570029162 in:
+	Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=6}
+Pretul maxim din pasul 6: 1419.816019911657 din: Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=6}
+
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+
+Licitatie{id=1001, nrDoritParticipanti=2, idProdus=38, nrPasiMaxim=6, nrPasiActual=7} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0}
+	S-a vandut Produs{id=38, nume='ALBANO Dulap 2 usi culisante', pretVanzare=0.0, pretMinim=1470.0, an=2020}Mobila{tip='Dulap', material='Lemn&Metal'} la pretul 1419.816019911657
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 239.71340838750777 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 184.72165847786997 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 73.8962816392036 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} s-a retras din:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=1}
+Pretul maxim din pasul 1: 239.71340838750777 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=2}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 175.5814361799654 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=2}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 202.54751493513766 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=2}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 225.60507145727755 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=2}
+Pretul maxim din pasul 2: 225.60507145727755 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=3}
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 265.3365897724227 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=2}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 456.1863899402508 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=2}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 242.45820474972874 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=2}
+Pretul maxim din pasul 2: 456.1863899402508 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=3}
+
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a fost asociat cu Broker 3.
+	Participa la Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=0}.
+
+Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=1}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 28.675770533322527 in:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} s-a retras din:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 108.70173406825263 in:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 147.71514114077152 in:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+Pretul maxim din pasul 1: 147.71514114077152 din: Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=1}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 353.05367435459243 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=1}
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a vazut produsele:
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+	Produs{id=19, nume='Tablou Canvas - New York', pretVanzare=0.0, pretMinim=200.0, an=2018}Tablou{numePictor='Tablomag', culori=TEMPERA}
+	Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC}
+	Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC}
+	Produs{id=16, nume='CANAPEA GRI CARBUNE', pretVanzare=0.0, pretMinim=1999.0, an=2020}Mobila{tip='Canapea', material='Textil'}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'}
+	Produs{id=40, nume='CLINTON Dulap 6 sertare, 3 usi', pretVanzare=0.0, pretMinim=1720.0, an=2019}Mobila{tip='Dulap', material='Metal'}
+	Produs{id=28, nume='Bratara Bijuterii aur Symbols', pretVanzare=0.0, pretMinim=420.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} a vazut produsele:
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+	Produs{id=19, nume='Tablou Canvas - New York', pretVanzare=0.0, pretMinim=200.0, an=2018}Tablou{numePictor='Tablomag', culori=TEMPERA}
+	Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC}
+	Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC}
+	Produs{id=16, nume='CANAPEA GRI CARBUNE', pretVanzare=0.0, pretMinim=1999.0, an=2020}Mobila{tip='Canapea', material='Textil'}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=39, nume='CAROLINE Divizor optional', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dulap', material='Lemn'}
+	Produs{id=40, nume='CLINTON Dulap 6 sertare, 3 usi', pretVanzare=0.0, pretMinim=1720.0, an=2019}Mobila{tip='Dulap', material='Metal'}
+	Produs{id=28, nume='Bratara Bijuterii aur Symbols', pretVanzare=0.0, pretMinim=420.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 531.703287731826 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=1}
+Pretul maxim din pasul 1: 531.703287731826 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=2}
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 592.9431564015254 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=3}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 505.23452886006766 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=3}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 527.5426516511855 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=3}
+Pretul maxim din pasul 3: 592.9431564015254 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=4}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 228.76326387150496 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=3}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 246.50939673895653 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=3}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 245.8832583533198 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=3}
+Pretul maxim din pasul 3: 246.50939673895653 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=4}
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 712.4078624280748 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=4}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 716.1381046743816 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=4}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 743.9510766983338 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=4}
+Pretul maxim din pasul 4: 743.9510766983338 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=4}
+
+Pasul 5 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=5}
+
+ProdusInvalidException
+	at CasaDeLicitatii.SolicitareLicitatie(CasaDeLicitatii.java:58)
+	at Facade.SolicitareLicitatie(Facade.java:103)
+	at Main.main(Main.java:34)
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 812.3403196664044 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=2}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 1064.2629776213248 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=2}
+Pretul maxim din pasul 2: 1064.2629776213248 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=3}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 52.72752081412401 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 37.65455026912384 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 566.8569841964403 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=1}
+Pretul maxim din pasul 1: 566.8569841964403 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 275.0119210685645 in:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 215.303563957474 in:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 179.56984066650472 in:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+Pretul maxim din pasul 2: 275.0119210685645 din: Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 761.7751613169605 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 671.9325522973386 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 1002.1494896583795 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=2}
+Pretul maxim din pasul 2: 1002.1494896583795 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=3}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 1273.16169515274 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=3}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 1345.7733522876647 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=3}
+Pretul maxim din pasul 3: 1345.7733522876647 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=4}
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} nu participa in licitatie!
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=5} este in desfasurare!
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 797.6083044554986 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=5}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 751.5392660242846 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=5}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 760.59351179784 in:
+	Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=5}
+Pretul maxim din pasul 5: 797.6083044554986 din: Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=5}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 277.76950624864867 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=4}
+Licitatie{id=1004, nrDoritParticipanti=4, idProdus=7, nrPasiMaxim=5, nrPasiActual=6} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'}
+	S-a vandut Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA} la pretul 797.6083044554986
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 309.6980839583135 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=4}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 297.50384398843727 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=4}
+Pretul maxim din pasul 4: 309.6980839583135 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=4}
+
+Pasul 5 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=5}
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} nu participa in licitatie!
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=3} este in desfasurare!
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 1465.6656004247557 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=4}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 1379.613412945367 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=4}
+Pretul maxim din pasul 4: 1465.6656004247557 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=4}
+
+Pasul 5 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=5}
+
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 1218.0050438165947 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 1100.305165581195 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 1121.8844149108977 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=3}
+Pretul maxim din pasul 3: 1218.0050438165947 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=3}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 275.2692032239291 in:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 365.3994346279333 in:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+Licitatie{id=1002, nrDoritParticipanti=3, idProdus=41, nrPasiMaxim=3, nrPasiActual=4} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0}
+	S-a vandut Produs{id=41, nume='Andromeda', pretVanzare=0.0, pretMinim=1250.0, an=1850}Tablou{numePictor='Peter Paul Rubens', culori=ACRILIC} la pretul 1218.0050438165947
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 355.43851789240443 in:
+	Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+Pretul maxim din pasul 3: 365.3994346279333 din: Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 1528.7030171334393 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=5}
+Licitatie{id=1003, nrDoritParticipanti=4, idProdus=30, nrPasiMaxim=3, nrPasiActual=4} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'}
+	S-a vandut Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false} la pretul 365.3994346279333
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 1582.3673893788832 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=5}
+Pretul maxim din pasul 5: 1582.3673893788832 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=5}
+
+Client{id=207, nume='OPTICA IRIS NICU S.R.L.', adresa='Strada Volumului 74'}PersoanaJuridica{companie=SRL, capitalSocial=11000.0} nu participa in licitatie!
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=5} este in desfasurare!
+Pasul 6 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=6}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 328.28038369779017 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=5}
+Client{id=206, nume='MECAPOL S.A.', adresa='Strada Modrogan 23'}PersoanaJuridica{companie=SA, capitalSocial=7000.0} a oferit pretul 319.2318925493883 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=5}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 313.9538360158919 in:
+	Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=5}
+Pretul maxim din pasul 5: 328.28038369779017 din: Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=5}
+
+Licitatie{id=1006, nrDoritParticipanti=3, idProdus=19, nrPasiMaxim=5, nrPasiActual=6} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'}
+	S-a vandut Produs{id=19, nume='Tablou Canvas - New York', pretVanzare=0.0, pretMinim=200.0, an=2018}Tablou{numePictor='Tablomag', culori=TEMPERA} la pretul 328.28038369779017
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 1589.2134352040052 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=6}
+Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0} a oferit pretul 1595.3579763246976 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=6}
+Pretul maxim din pasul 6: 1595.3579763246976 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=6}
+
+Licitatie{id=1005, nrDoritParticipanti=2, idProdus=18, nrPasiMaxim=6, nrPasiActual=7} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=205, nume='SERTRAMI SRL', adresa='Strada Someşul Rece 18'}PersoanaJuridica{companie=SRL, capitalSocial=32000.0}
+	S-a vandut Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'} la pretul 1595.3579763246976

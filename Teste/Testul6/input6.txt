@@ -1,0 +1,63 @@
+newBroker
+newBroker
+-
+newClient;PersoanaFizica;101;Andrei Ionescu;Strada Ciresului Nr. 15;18.02.1995
+newClient;PersoanaFizica;102;Maria Stancu;Strada Aeromodelului Nr. 2;17.08.2000
+newClient;PersoanaFizica;103;Iulia Vasile;Strada Argesului Nr. 7;03.11.1970
+newClient;PersoanaFizica;104;Miruna Inca;Strada Baru Mare Nr. 14;14.07.1976
+newClient;PersoanaFizica;105;Marius Vasilescu;Strada Graţioasa Nr. 12;08.12.1999
+newClient;PersoanaFizica;106;Mircea Rares;Strada Promoroaca Nr. 74;01.02.1972
+newClient;PersoanaFizica;107;Constantin Anima;Strada Redea Nr. 125;18.05.1968
+-
+newProdus;Tablou;5;Maternitate;900;1866;Nicolae Grigorescu;ULEI
+newProdus;Tablou;6;Autoportret;1100;1868;Nicolae Grigorescu;ULEI
+newProdus;Tablou;7;Portret de femeie;800;1870;Nicolae Grigorescu;TEMPERA
+newProdus;Tablou;21;Cina cea de Taina;550;1740;Leonardo da Vinci;ULEI
+newProdus;Tablou;22;Gara Saint Lazare;950;1902;Claude Monet;ULEI
+newProdus;Tablou;23;Maci la Argenteuil;1200;1905;Claude Monet;TEMPERA
+newProdus;Tablou;24;The Banquet;730;1930;René Magritte;ULEI
+newProdus;Mobila;2;Mobila Germania;200;2009;Bucatarie;Lemn
+newProdus;Mobila;13;MASA DE BIROU DIABLO;500;2020;Birou;Metal
+newProdus;Mobila;14;Canapea extensibilă Karup;800;2020;Sufragerie;Lemn
+newProdus;Mobila;17;PAT SINGLE CU SOMIERA INCLUSA;400;2020;Dormitor;Lemn
+newProdus;Mobila;18;Pat metalic tip baldachin Guido;1500;2020;Dormitor;Metal
+newProdus;Bijuterie;8;Inel Printesa;500;1890;Smarald;true
+newProdus;Bijuterie;9;Colier plastic;20;2019;Plastic;false
+newProdus;Bijuterie;10;Cercei frumosi;200;1990;Aur;false
+newProdus;Bijuterie;11;Inel vechi;600;1850;Platina;false
+newProdus;Bijuterie;29;Bratara Fossil Sterling Silver;270;2019;Argint;false
+newProdus;Bijuterie;30;Pandantiv Bijuterie Aur Fashion;300;2018;Aur alb;false
+newProdus;Bijuterie;31;Cercei Bijuterii Argint Symbols;50;2019;Argint;false
+newProdus;Bijuterie;32;Inel Aur 18k Diamante BLANCO'S;1800;2020;Aur;true
+newProdus;Bijuterie;33;Bratara Aur 14k LEO MARCUS;1300;2019;Aur alb;false
+-
+afisareProduse;102
+afisareProduse;104
+afisareProduse;106
+-
+solicitareLicitatie;106;6;1350
+solicitareLicitatie;106;30;450
+solicitareLicitatie;106;14;900
+solicitareLicitatie;106;2;199
+solicitareLicitatie;106;21;650
+solicitareLicitatie;104;30;420
+solicitareLicitatie;104;2;250
+solicitareLicitatie;104;21;700
+solicitareLicitatie;104;6;1400
+solicitareLicitatie;103;2;350
+solicitareLicitatie;103;11;601
+solicitareLicitatie;103;17;470
+solicitareLicitatie;103;30;480
+solicitareLicitatie;103;14;940
+solicitareLicitatie;103;6;1300
+solicitareLicitatie;107;30;700
+solicitareLicitatie;107;32;2000
+solicitareLicitatie;107;21;750
+solicitareLicitatie;107;2;300
+solicitareLicitatie;107;6;1150
+-
+afisareProduse;105
+-
+solicitareLicitatie;105;6;1250
+solicitareLicitatie;105;30;475
+solicitareLicitatie;105;21;740

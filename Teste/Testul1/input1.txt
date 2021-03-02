@@ -1,0 +1,63 @@
+newBroker
+newBroker
+-
+newClient;PersoanaFizica;101;Andrei Ionescu;Strada Ciresului Nr. 15;18.02.1995
+newClient;PersoanaFizica;102;Maria Stancu;Strada Aeromodelului Nr. 2;17.08.2000
+newClient;PersoanaJuridica;201;NetForce;Strada Lacului Nr. 152;SRL;15000
+newClient;PersoanaJuridica;202;M COPY SRL;Strada Lamark 7;SRL;8000
+newClient;PersoanaJuridica;203;ADA ONLINE;Strada 1 Mai 308;SA;18000
+newClient;PersoanaFizica;103;Iulia Vasile;Strada Argesului Nr. 7;03.11.1970
+-
+newProdus;Tablou;1;Regele;50;2001;Adrian Ghenie;ACRILIC
+newProdus;Mobila;2;Mobila Germania;200;2009;Bucatarie;Lemn
+newProdus;Bijuterie;3;Inel Printesa;500;1890;Smarald;true
+newProdus;Tablou;4;Mocanul;1000;1867;Nicolae Grigorescu;ULEI
+newProdus;Tablou;5;Maternitate;900;1866;Nicolae Grigorescu;ULEI
+newProdus;Tablou;6;Autoportret;1100;1868;Nicolae Grigorescu;ULEI
+newProdus;Tablou;7;Portret de femeie;800;1870;Nicolae Grigorescu;TEMPERA
+-
+afisareProduse;102
+afisareProduse;101
+afisareProduse;201
+solicitareLicitatie;101;3;700
+solicitareLicitatie;101;5;1200
+solicitareLicitatie;101;6;1500
+solicitareLicitatie;102;3;900
+solicitareLicitatie;102;6;1400
+solicitareLicitatie;102;7;1200
+solicitareLicitatie;102;1;120
+solicitareLicitatie;201;3;720
+solicitareLicitatie;201;2;400
+solicitareLicitatie;201;6;1300
+-
+newProdus;Bijuterie;8;Inel Printesa;500;1890;Smarald;true
+newProdus;Bijuterie;9;Colier plastic;20;2019;Plastic;false
+newProdus;Bijuterie;10;Cercei frumosi;200;1990;Aur;false
+newProdus;Bijuterie;11;Inel vechi;600;1850;Platina;false
+newProdus;Bijuterie;12;Bratara aur;400;1980;Aur;true
+newProdus;Mobila;13;MASA DE BIROU DIABLO;500;2020;Birou;Metal
+newProdus;Mobila;14;Canapea extensibilă Karup;800;2020;Sufragerie;Lemn
+newProdus;Mobila;15;Birou BDB27;1000;2019;Birou;Lemn
+newProdus;Mobila;16;CANAPEA GRI CARBUNE;1999;2020;Canapea;Textil
+newProdus;Mobila;17;PAT SINGLE CU SOMIERA INCLUSA;400;2020;Dormitor;Lemn
+newProdus;Mobila;18;Pat metalic tip baldachin Guido;1500;2020;Dormitor;Metal
+newProdus;Tablou;19;Tablou Canvas - New York;200;2018;Tablomag;TEMPERA
+newProdus;Tablou;20;TABLOU METAL 3D WORLD MAP;250;2018;Tablomag;ACRILIC
+-
+afisareProduse;103
+solicitareLicitatie;202;6;1350
+solicitareLicitatie;203;6;1450
+solicitareLicitatie;202;3;650
+solicitareLicitatie;202;2;700
+solicitareLicitatie;203;2;550
+solicitareLicitatie;103;10;250
+solicitareLicitatie;102;10;350
+solicitareLicitatie;201;10;400
+solicitareLicitatie;202;10;380
+solicitareLicitatie;103;7;1400
+solicitareLicitatie;103;12;500
+solicitareLicitatie;102;12;550
+solicitareLicitatie;101;12;620
+solicitareLicitatie;203;12;600
+solicitareLicitatie;201;12;400
+quit

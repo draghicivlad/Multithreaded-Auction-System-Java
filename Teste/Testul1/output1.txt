@@ -1,0 +1,398 @@
+Broker 1 a fost adaugat
+
+Broker 2 a fost adaugat
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a fost adaugat ca si CLIENT.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a fost adaugat ca si CLIENT.
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a fost adaugat ca si CLIENT.
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a fost adaugat ca si CLIENT.
+
+Client{id=203, nume='ADA ONLINE', adresa='Strada 1 Mai 308'}PersoanaJuridica{companie=SA, capitalSocial=18000.0} a fost adaugat ca si CLIENT.
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost adaugat ca si CLIENT.
+
+Produs{id=1, nume='Regele', pretVanzare=0.0, pretMinim=50.0, an=2001}Tablou{numePictor='Adrian Ghenie', culori=ACRILIC} a fost adaugat ca PRODUS.
+
+Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'} a fost adaugat ca PRODUS.
+
+Produs{id=3, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true} a fost adaugat ca PRODUS.
+
+Produs{id=4, nume='Mocanul', pretVanzare=0.0, pretMinim=1000.0, an=1867}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA} a fost adaugat ca PRODUS.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a vazut produsele:
+	Produs{id=1, nume='Regele', pretVanzare=0.0, pretMinim=50.0, an=2001}Tablou{numePictor='Adrian Ghenie', culori=ACRILIC}
+	Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'}
+	Produs{id=3, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true}
+	Produs{id=4, nume='Mocanul', pretVanzare=0.0, pretMinim=1000.0, an=1867}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a vazut produsele:
+	Produs{id=1, nume='Regele', pretVanzare=0.0, pretMinim=50.0, an=2001}Tablou{numePictor='Adrian Ghenie', culori=ACRILIC}
+	Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'}
+	Produs{id=3, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true}
+	Produs{id=4, nume='Mocanul', pretVanzare=0.0, pretMinim=1000.0, an=1867}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a vazut produsele:
+	Produs{id=1, nume='Regele', pretVanzare=0.0, pretMinim=50.0, an=2001}Tablou{numePictor='Adrian Ghenie', culori=ACRILIC}
+	Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'}
+	Produs{id=3, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true}
+	Produs{id=4, nume='Mocanul', pretVanzare=0.0, pretMinim=1000.0, an=1867}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=0} a fost creata.
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=0}.
+
+Licitatie{id=1001, nrDoritParticipanti=2, idProdus=5, nrPasiMaxim=5, nrPasiActual=0} a fost creata.
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1001, nrDoritParticipanti=2, idProdus=5, nrPasiMaxim=5, nrPasiActual=0}.
+
+Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=0} a fost creata.
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=0}.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=0}.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=0}.
+
+Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1004, nrDoritParticipanti=2, idProdus=1, nrPasiMaxim=4, nrPasiActual=0} a fost creata.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=2, idProdus=1, nrPasiMaxim=4, nrPasiActual=0}.
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=0}.
+
+Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=0} a fost creata.
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=0}.
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=0}.
+
+Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=1}
+
+Produs{id=8, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true} a fost adaugat ca PRODUS.
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a oferit pretul 544.4373710929626 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=1}
+Produs{id=9, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 212.34664442374574 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=1}
+Produs{id=10, nume='Cercei frumosi', pretVanzare=0.0, pretMinim=200.0, an=1990}Bijuterie{material='Aur', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=11, nume='Inel vechi', pretVanzare=0.0, pretMinim=600.0, an=1850}Bijuterie{material='Platina', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 446.9722650794256 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=1}
+Produs{id=12, nume='Bratara aur', pretVanzare=0.0, pretMinim=400.0, an=1980}Bijuterie{material='Aur', piatraPretioasa=true} a fost adaugat ca PRODUS.
+
+Pretul maxim din pasul 1: 544.4373710929626 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=2}
+
+Produs{id=13, nume='MASA DE BIROU DIABLO', pretVanzare=0.0, pretMinim=500.0, an=2020}Mobila{tip='Birou', material='Metal'} a fost adaugat ca PRODUS.
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a oferit pretul 590.3067613192825 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=2}
+Produs{id=14, nume='Canapea extensibilă Karup', pretVanzare=0.0, pretMinim=800.0, an=2020}Mobila{tip='Sufragerie', material='Lemn'} a fost adaugat ca PRODUS.
+
+Produs{id=15, nume='Birou BDB27', pretVanzare=0.0, pretMinim=1000.0, an=2019}Mobila{tip='Birou', material='Lemn'} a fost adaugat ca PRODUS.
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 692.6883169943154 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=2}
+Produs{id=16, nume='CANAPEA GRI CARBUNE', pretVanzare=0.0, pretMinim=1999.0, an=2020}Mobila{tip='Canapea', material='Textil'} a fost adaugat ca PRODUS.
+
+Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'} a fost adaugat ca PRODUS.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 595.3423672474569 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=2}
+Pretul maxim din pasul 2: 692.6883169943154 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=3}
+
+Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'} a fost adaugat ca PRODUS.
+
+Produs{id=19, nume='Tablou Canvas - New York', pretVanzare=0.0, pretMinim=200.0, an=2018}Tablou{numePictor='Tablomag', culori=TEMPERA} a fost adaugat ca PRODUS.
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a oferit pretul 824.863744551783 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=3}
+Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC} a fost adaugat ca PRODUS.
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 774.2504519395789 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=3}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a vazut produsele:
+	Produs{id=1, nume='Regele', pretVanzare=0.0, pretMinim=50.0, an=2001}Tablou{numePictor='Adrian Ghenie', culori=ACRILIC}
+	Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'}
+	Produs{id=3, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true}
+	Produs{id=4, nume='Mocanul', pretVanzare=0.0, pretMinim=1000.0, an=1867}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+	Produs{id=8, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true}
+	Produs{id=9, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false}
+	Produs{id=10, nume='Cercei frumosi', pretVanzare=0.0, pretMinim=200.0, an=1990}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=11, nume='Inel vechi', pretVanzare=0.0, pretMinim=600.0, an=1850}Bijuterie{material='Platina', piatraPretioasa=false}
+	Produs{id=12, nume='Bratara aur', pretVanzare=0.0, pretMinim=400.0, an=1980}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=13, nume='MASA DE BIROU DIABLO', pretVanzare=0.0, pretMinim=500.0, an=2020}Mobila{tip='Birou', material='Metal'}
+	Produs{id=14, nume='Canapea extensibilă Karup', pretVanzare=0.0, pretMinim=800.0, an=2020}Mobila{tip='Sufragerie', material='Lemn'}
+	Produs{id=15, nume='Birou BDB27', pretVanzare=0.0, pretMinim=1000.0, an=2019}Mobila{tip='Birou', material='Lemn'}
+	Produs{id=16, nume='CANAPEA GRI CARBUNE', pretVanzare=0.0, pretMinim=1999.0, an=2020}Mobila{tip='Canapea', material='Textil'}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=19, nume='Tablou Canvas - New York', pretVanzare=0.0, pretMinim=200.0, an=2018}Tablou{numePictor='Tablomag', culori=TEMPERA}
+	Produs{id=20, nume='TABLOU METAL 3D WORLD MAP', pretVanzare=0.0, pretMinim=250.0, an=2018}Tablou{numePictor='Tablomag', culori=ACRILIC}
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 695.752954072285 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=3}
+Pretul maxim din pasul 3: 824.863744551783 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=4}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} nu participa in licitatie!
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=4} este in desfasurare!
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a oferit pretul 837.2154265561525 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=4}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 830.8966985039835 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=4}
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 880.8589030938047 in:
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=4}
+Pretul maxim din pasul 4: 880.8589030938047 din: Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=4}
+
+Client{id=203, nume='ADA ONLINE', adresa='Strada 1 Mai 308'}PersoanaJuridica{companie=SA, capitalSocial=18000.0} nu participa in licitatie!
+	Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=5} este in desfasurare!
+Licitatie{id=1002, nrDoritParticipanti=3, idProdus=6, nrPasiMaxim=4, nrPasiActual=5} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'}
+	S-a vandut Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI} la pretul 880.8589030938047
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=0}.
+
+Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=1}
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a oferit pretul 21.86470329181328 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=1}
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 73.0983407534722 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=1}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 313.5056651834707 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=1}
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 196.6526396117412 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=1}
+Pretul maxim din pasul 1: 313.5056651834707 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=2}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=0}.
+
+Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=1}
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a oferit pretul 459.0068722413912 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=2}
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 574.9025639073928 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=2}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 322.14030113049927 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=2}
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 445.4877483666683 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=2}
+Pretul maxim din pasul 2: 574.9025639073928 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=3}
+
+Client{id=203, nume='ADA ONLINE', adresa='Strada 1 Mai 308'}PersoanaJuridica{companie=SA, capitalSocial=18000.0} nu participa in licitatie!
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=1} este in desfasurare!
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 17.693617088716053 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=1}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 195.64251943767877 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=1}
+Pretul maxim din pasul 1: 195.64251943767877 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=2}
+
+Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a oferit pretul 603.1648392540469 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=3}
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 593.6820358270763 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=3}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 587.091935626996 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=3}
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 576.1363864180746 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=3}
+Pretul maxim din pasul 3: 603.1648392540469 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=4}
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=1}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 224.15516129698037 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=2}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 211.31059513138482 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=2}
+Pretul maxim din pasul 2: 224.15516129698037 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=3}
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} nu participa in licitatie!
+	Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=1} este in desfasurare!
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 66.11116638290268 in:
+	Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 57.61426505266193 in:
+	Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=1}
+Pretul maxim din pasul 1: 66.11116638290268 din: Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a oferit pretul 646.3934483816513 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=4}
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 642.9931067706406 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=4}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 613.5582371739573 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=4}
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 605.0965420241257 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=4}
+Pretul maxim din pasul 4: 646.3934483816513 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=4}
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 131.26725623872483 in:
+	Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=2}
+Licitatie{id=1000, nrDoritParticipanti=4, idProdus=3, nrPasiMaxim=4, nrPasiActual=5} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'}
+	S-a vandut Produs{id=3, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true} la pretul 646.3934483816513
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 123.00713025006024 in:
+	Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=2}
+Pretul maxim din pasul 2: 131.26725623872483 din: Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=3}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} nu participa in licitatie!
+	Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=3} este in desfasurare!
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 381.0495884898506 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=3}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 305.0837628464983 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=3}
+Pretul maxim din pasul 3: 381.0495884898506 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=4}
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=1}
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 133.7689953565115 in:
+	Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 147.84262738735717 in:
+	Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=3}
+Pretul maxim din pasul 3: 147.84262738735717 din: Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=3}
+
+Licitatie{id=1006, nrDoritParticipanti=2, idProdus=10, nrPasiMaxim=3, nrPasiActual=4} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'}
+	S-a vandut Produs{id=10, nume='Cercei frumosi', pretVanzare=0.0, pretMinim=200.0, an=1990}Bijuterie{material='Aur', piatraPretioasa=false} la pretul 147.84262738735717
+Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 270.8107016731942 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 377.6297614987726 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=1}
+Pretul maxim din pasul 1: 377.6297614987726 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0} a oferit pretul 530.3705554869807 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=4}
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} a oferit pretul 384.3579616651127 in:
+	Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=4}
+Pretul maxim din pasul 4: 530.3705554869807 din: Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=4}
+
+Licitatie{id=1005, nrDoritParticipanti=2, idProdus=2, nrPasiMaxim=4, nrPasiActual=5} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=202, nume='M COPY SRL', adresa='Strada Lamark 7'}PersoanaJuridica{companie=SRL, capitalSocial=8000.0}
+	S-a vandut Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'} la pretul 530.3705554869807
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 574.5701164221474 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 875.7100490039818 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=2}
+Pretul maxim din pasul 2: 875.7100490039818 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=0}.
+
+Pasul 3 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=3}
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 1022.2561464167815 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 1136.9401278707 in:
+	Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=3}
+Pretul maxim din pasul 3: 1136.9401278707 din: Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=3}
+
+Licitatie{id=1003, nrDoritParticipanti=2, idProdus=7, nrPasiMaxim=3, nrPasiActual=4} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'}
+	S-a vandut Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA} la pretul 1136.9401278707
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=203, nume='ADA ONLINE', adresa='Strada 1 Mai 308'}PersoanaJuridica{companie=SA, capitalSocial=18000.0} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=1}
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a oferit pretul 134.97249288036116 in:
+	Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a oferit pretul 12.840747107788568 in:
+	Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=203, nume='ADA ONLINE', adresa='Strada 1 Mai 308'}PersoanaJuridica{companie=SA, capitalSocial=18000.0} a oferit pretul 229.3028660669909 in:
+	Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 58.9163782378242 in:
+	Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=1}
+Pretul maxim din pasul 1: 229.3028660669909 din: Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=201, nume='NetForce', adresa='Strada Lacului Nr. 152'}PersoanaJuridica{companie=SRL, capitalSocial=15000.0} nu participa in licitatie!
+	Licitatie{id=1007, nrDoritParticipanti=4, idProdus=12, nrPasiMaxim=3, nrPasiActual=2} este in desfasurare!
+Quiting!
+
+Process finished with exit code 0

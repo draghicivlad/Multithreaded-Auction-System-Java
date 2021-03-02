@@ -1,0 +1,59 @@
+newBroker
+newBroker
+newBroker
+-
+newClient;PersoanaFizica;104;Miruna Inca;Strada Baru Mare Nr. 14;14.07.1976
+newClient;PersoanaFizica;105;Marius Vasilescu;Strada Graţioasa Nr. 12;08.12.1999
+newClient;PersoanaFizica;106;Mircea Rares;Strada Promoroaca Nr. 74;01.02.1972
+newClient;PersoanaFizica;107;Constantin Anima;Strada Redea Nr. 125;18.05.1968
+newClient;PersoanaJuridica;205;SERTRAMI SRL;Strada Someşul Rece 18;SRL;32000
+newClient;PersoanaJuridica;206;MECAPOL S.A.;Strada Modrogan 23;SA;7000
+newClient;PersoanaJuridica;207;OPTICA IRIS NICU S.R.L.;Strada Volumului 74;SRL;11000
+-
+newProdus;Tablou;6;Autoportret;1100;1868;Nicolae Grigorescu;ULEI
+newProdus;Tablou;7;Portret de femeie;800;1870;Nicolae Grigorescu;TEMPERA
+newProdus;Tablou;19;Tablou Canvas - New York;200;2018;Tablomag;TEMPERA
+newProdus;Tablou;20;TABLOU METAL 3D WORLD MAP;250;2018;Tablomag;ACRILIC
+newProdus;Tablou;41;Andromeda;1250;1850;Peter Paul Rubens;ACRILIC
+newProdus;Mobila;16;CANAPEA GRI CARBUNE;1999;2020;Canapea;Textil
+newProdus;Mobila;17;PAT SINGLE CU SOMIERA INCLUSA;400;2020;Dormitor;Lemn
+newProdus;Mobila;18;Pat metalic tip baldachin Guido;1500;2020;Dormitor;Metal
+newProdus;Mobila;38;ALBANO Dulap 2 usi culisante;1470;2020;Dulap;Lemn&Metal
+newProdus;Mobila;39;CAROLINE Divizor optional;400;2020;Dulap;Lemn
+newProdus;Mobila;40;CLINTON Dulap 6 sertare, 3 usi;1720;2019;Dulap;Metal
+newProdus;Bijuterie;28;Bratara Bijuterii aur Symbols;420;2020;Aur;false
+newProdus;Bijuterie;29;Bratara Fossil Sterling Silver;270;2019;Argint;false
+newProdus;Bijuterie;30;Pandantiv Bijuterie Aur Fashion;300;2018;Aur alb;false
+newProdus;Bijuterie;31;Cercei Bijuterii Argint Symbols;50;2019;Argint;false
+-
+afisareProduse;104
+afisareProduse;205
+-
+solicitareLicitatie;104;6;1350
+solicitareLicitatie;104;38;1600
+solicitareLicitatie;104;41;1500
+solicitareLicitatie;104;30;520
+solicitareLicitatie;104;7;900
+solicitareLicitatie;107;7;850
+solicitareLicitatie;107;18;1700
+solicitareLicitatie;107;30;410
+solicitareLicitatie;107;19;350
+solicitareLicitatie;206;7;1000
+solicitareLicitatie;206;38;1650
+solicitareLicitatie;206;30;460
+solicitareLicitatie;206;41;1540
+solicitareLicitatie;206;19;380
+solicitareLicitatie;205;19;410
+solicitareLicitatie;205;38;1570
+solicitareLicitatie;205;7;700
+solicitareLicitatie;205;30;280
+solicitareLicitatie;205;18;1720
+solicitareLicitatie;205;41;1520
+-
+afisareProduse;106
+afisareProduse;207
+-
+solicitareLicitatie;207;38;1520
+solicitareLicitatie;207;7;990
+solicitareLicitatie;207;30;600
+solicitareLicitatie;207;19;415

@@ -1,0 +1,60 @@
+newBroker
+newBroker
+newBroker
+newBroker
+-
+newClient;PersoanaFizica;101;Andrei Ionescu;Strada Ciresului Nr. 15;18.02.1995
+newClient;PersoanaFizica;102;Maria Stancu;Strada Aeromodelului Nr. 2;17.08.2000
+newClient;PersoanaFizica;103;Iulia Vasile;Strada Argesului Nr. 7;03.11.1970
+newClient;PersoanaJuridica;201;NetForce;Strada Lacului Nr. 152;SRL;15000
+newClient;PersoanaJuridica;202;M COPY SRL;Strada Lamark 7;SRL;8000
+newClient;PersoanaJuridica;203;ADA ONLINE;Strada 1 Mai 308;SA;18000
+newClient;PersoanaJuridica;204;MEDA PROD DISTRIBUTION SA;Strada Lugoj 37;SA;51000
+-
+newProdus;Tablou;1;Regele;50;2001;Adrian Ghenie;ACRILIC
+newProdus;Tablou;4;Mocanul;1000;1867;Nicolae Grigorescu;ULEI
+newProdus;Tablou;5;Maternitate;900;1866;Nicolae Grigorescu;ULEI
+newProdus;Tablou;6;Autoportret;1100;1868;Nicolae Grigorescu;ULEI
+newProdus;Tablou;7;Portret de femeie;800;1870;Nicolae Grigorescu;TEMPERA
+newProdus;Tablou;19;Tablou Canvas - New York;200;2018;Tablomag;TEMPERA
+newProdus;Tablou;20;TABLOU METAL 3D WORLD MAP;250;2018;Tablomag;ACRILIC
+newProdus;Mobila;2;Mobila Germania;200;2009;Bucatarie;Lemn
+newProdus;Mobila;13;MASA DE BIROU DIABLO;500;2020;Birou;Metal
+newProdus;Mobila;14;Canapea extensibilă Karup;800;2020;Sufragerie;Lemn
+newProdus;Mobila;15;Birou BDB27;1000;2019;Birou;Lemn
+newProdus;Mobila;16;CANAPEA GRI CARBUNE;1999;2020;Canapea;Textil
+newProdus;Bijuterie;29;Bratara Fossil Sterling Silver;270;2019;Argint;false
+newProdus;Bijuterie;30;Pandantiv Bijuterie Aur Fashion;300;2018;Aur alb;false
+newProdus;Bijuterie;31;Cercei Bijuterii Argint Symbols;50;2019;Argint;false
+newProdus;Bijuterie;32;Inel Aur 18k Diamante BLANCO'S;1800;2020;Aur;true
+newProdus;Bijuterie;33;Bratara Aur 14k LEO MARCUS;1300;2019;Aur alb;false
+newProdus;Bijuterie;34;Inel Aur 18k Savorite DERUVO;3500;2019;Aur;true
+newProdus;Bijuterie;35;Inel Argint 925 Rodolite;490;2017;Argint;true
+newProdus;Bijuterie;36;Inel Argint 925 Smaralde;520;2019;Argint;true
+newProdus;Bijuterie;37;Inel Aur 18k Diamante, Ametist DERUVO;2200;2019;Aur;true
+-
+afisareProduse;103
+afisareProduse;102
+afisareProduse;204
+-
+solicitareLicitatie;102;34;3700
+solicitareLicitatie;102;16;2350
+solicitareLicitatie;102;5;1100
+solicitareLicitatie;102;36;640
+solicitareLicitatie;102;15;1200
+solicitareLicitatie;203;16;2360
+solicitareLicitatie;203;32;1940
+solicitareLicitatie;203;5;1050
+solicitareLicitatie;203;36;680
+solicitareLicitatie;203;29;500
+solicitareLicitatie;201;16;2380
+solicitareLicitatie;201;5;1200
+solicitareLicitatie;201;37;2500
+solicitareLicitatie;201;15;1800
+solicitareLicitatie;204;5;1240
+solicitareLicitatie;204;36;350
+solicitareLicitatie;204;5;1200
+solicitareLicitatie;204;15;1400
+solicitareLicitatie;103;15;1360
+solicitareLicitatie;103;37;2600
+solicitareLicitatie;103;5;1150

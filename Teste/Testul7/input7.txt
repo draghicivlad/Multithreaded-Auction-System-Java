@@ -1,0 +1,59 @@
+newBroker
+newBroker
+newBroker
+newBroker
+-
+newClient;PersoanaJuridica;201;NetForce;Strada Lacului Nr. 152;SRL;15000
+newClient;PersoanaJuridica;202;M COPY SRL;Strada Lamark 7;SRL;8000
+newClient;PersoanaJuridica;203;ADA ONLINE;Strada 1 Mai 308;SA;18000
+newClient;PersoanaJuridica;204;MEDA PROD DISTRIBUTION SA;Strada Lugoj 37;SA;51000
+newClient;PersoanaJuridica;205;SERTRAMI SRL;Strada Someşul Rece 18;SRL;32000
+newClient;PersoanaJuridica;206;MECAPOL S.A.;Strada Modrogan 23;SA;7000
+newClient;PersoanaJuridica;207;OPTICA IRIS NICU S.R.L.;Strada Volumului 74;SRL;11000
+-
+newProdus;Bijuterie;12;Bratara aur;400;1980;Aur;true
+newProdus;Bijuterie;27;Colier plastic;20;2019;Plastic;false
+newProdus;Bijuterie;28;Bratara Bijuterii aur Symbols;420;2020;Aur;false
+newProdus;Bijuterie;29;Bratara Fossil Sterling Silver;270;2019;Argint;false
+newProdus;Bijuterie;30;Pandantiv Bijuterie Aur Fashion;300;2018;Aur alb;false
+newProdus;Bijuterie;31;Cercei Bijuterii Argint Symbols;50;2019;Argint;false
+newProdus;Bijuterie;32;Inel Aur 18k Diamante BLANCO'S;1800;2020;Aur;true
+newProdus;Bijuterie;33;Bratara Aur 14k LEO MARCUS;1300;2019;Aur alb;false
+newProdus;Mobila;17;PAT SINGLE CU SOMIERA INCLUSA;400;2020;Dormitor;Lemn
+newProdus;Mobila;18;Pat metalic tip baldachin Guido;1500;2020;Dormitor;Metal
+newProdus;Mobila;38;ALBANO Dulap 2 usi culisante;1470;2020;Dulap;Lemn&Metal
+newProdus;Mobila;39;CAROLINE Divizor optional;400;2020;Dulap;Lemn
+newProdus;Mobila;40;CLINTON Dulap 6 sertare, 3 usi;1720;2019;Dulap;Metal
+newProdus;Tablou;20;TABLOU METAL 3D WORLD MAP;250;2018;Tablomag;ACRILIC
+newProdus;Tablou;41;Andromeda;1250;1850;Peter Paul Rubens;ACRILIC
+newProdus;Tablou;21;Cina cea de Taina;550;1740;Leonardo da Vinci;ULEI
+newProdus;Tablou;22;Gara Saint Lazare;950;1902;Claude Monet;ULEI
+newProdus;Tablou;23;Maci la Argenteuil;1200;1905;Claude Monet;TEMPERA
+newProdus;Tablou;24;The Banquet;730;1930;René Magritte;ULEI
+newProdus;Tablou;25;Batranul muzician;480;1860;Edouard Manet;TEMPERA
+-
+afisareProduse;202
+afisareProduse;205
+afisareProduse;204
+-
+solicitareLicitatie;202;25;1995
+solicitareLicitatie;202;18;1600
+solicitareLicitatie;202;31;85
+solicitareLicitatie;202;39;550
+solicitareLicitatie;202;41;1350
+solicitareLicitatie;207;18;1580
+solicitareLicitatie;207;31;100
+solicitareLicitatie;207;41;1800
+solicitareLicitatie;207;29;300
+solicitareLicitatie;207;12;500
+solicitareLicitatie;204;18;1550
+solicitareLicitatie;204;40;1800
+solicitareLicitatie;204;25;2010
+solicitareLicitatie;204;39;600
+solicitareLicitatie;204;31;95
+solicitareLicitatie;204;29;315
+solicitareLicitatie;206;17;550
+solicitareLicitatie;206;31;110
+solicitareLicitatie;206;25;2020
+solicitareLicitatie;206;41;1950
+solicitareLicitatie;206;29;350

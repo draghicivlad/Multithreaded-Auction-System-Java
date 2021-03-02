@@ -1,0 +1,372 @@
+"C:\Users\Draghici Vlad\.jdks\openjdk-15\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\lib\idea_rt.jar=61240:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Draghici Vlad\Desktop\ProiectPOO\out\production\ProiectPOO" Main cli 100 ./Teste/Testul10/input10.txt
+Broker 1 a fost adaugat
+
+Broker 2 a fost adaugat
+
+Client{id=101, nume='Andrei Ionescu', adresa='Strada Ciresului Nr. 15'}PersoanaFizica{dataNastere='18.02.1995'} a fost adaugat ca si CLIENT.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a fost adaugat ca si CLIENT.
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost adaugat ca si CLIENT.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost adaugat ca si CLIENT.
+
+Client{id=105, nume='Marius Vasilescu', adresa='Strada Graţioasa Nr. 12'}PersoanaFizica{dataNastere='08.12.1999'} a fost adaugat ca si CLIENT.
+
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a fost adaugat ca si CLIENT.
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a fost adaugat ca si CLIENT.
+
+Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA} a fost adaugat ca PRODUS.
+
+Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=22, nume='Gara Saint Lazare', pretVanzare=0.0, pretMinim=950.0, an=1902}Tablou{numePictor='Claude Monet', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=23, nume='Maci la Argenteuil', pretVanzare=0.0, pretMinim=1200.0, an=1905}Tablou{numePictor='Claude Monet', culori=TEMPERA} a fost adaugat ca PRODUS.
+
+Produs{id=24, nume='The Banquet', pretVanzare=0.0, pretMinim=730.0, an=1930}Tablou{numePictor='René Magritte', culori=ULEI} a fost adaugat ca PRODUS.
+
+Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'} a fost adaugat ca PRODUS.
+
+Produs{id=13, nume='MASA DE BIROU DIABLO', pretVanzare=0.0, pretMinim=500.0, an=2020}Mobila{tip='Birou', material='Metal'} a fost adaugat ca PRODUS.
+
+Produs{id=14, nume='Canapea extensibilă Karup', pretVanzare=0.0, pretMinim=800.0, an=2020}Mobila{tip='Sufragerie', material='Lemn'} a fost adaugat ca PRODUS.
+
+Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'} a fost adaugat ca PRODUS.
+
+Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'} a fost adaugat ca PRODUS.
+
+Produs{id=8, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true} a fost adaugat ca PRODUS.
+
+Produs{id=9, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=10, nume='Cercei frumosi', pretVanzare=0.0, pretMinim=200.0, an=1990}Bijuterie{material='Aur', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=11, nume='Inel vechi', pretVanzare=0.0, pretMinim=600.0, an=1850}Bijuterie{material='Platina', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Produs{id=32, nume='Inel Aur 18k Diamante BLANCO'S', pretVanzare=0.0, pretMinim=1800.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=true} a fost adaugat ca PRODUS.
+
+Produs{id=33, nume='Bratara Aur 14k LEO MARCUS', pretVanzare=0.0, pretMinim=1300.0, an=2019}Bijuterie{material='Aur alb', piatraPretioasa=false} a fost adaugat ca PRODUS.
+
+Client{id=102, nume='Maria Stancu', adresa='Strada Aeromodelului Nr. 2'}PersoanaFizica{dataNastere='17.08.2000'} a vazut produsele:
+	Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+	Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI}
+	Produs{id=22, nume='Gara Saint Lazare', pretVanzare=0.0, pretMinim=950.0, an=1902}Tablou{numePictor='Claude Monet', culori=ULEI}
+	Produs{id=23, nume='Maci la Argenteuil', pretVanzare=0.0, pretMinim=1200.0, an=1905}Tablou{numePictor='Claude Monet', culori=TEMPERA}
+	Produs{id=24, nume='The Banquet', pretVanzare=0.0, pretMinim=730.0, an=1930}Tablou{numePictor='René Magritte', culori=ULEI}
+	Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'}
+	Produs{id=13, nume='MASA DE BIROU DIABLO', pretVanzare=0.0, pretMinim=500.0, an=2020}Mobila{tip='Birou', material='Metal'}
+	Produs{id=14, nume='Canapea extensibilă Karup', pretVanzare=0.0, pretMinim=800.0, an=2020}Mobila{tip='Sufragerie', material='Lemn'}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=8, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true}
+	Produs{id=9, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false}
+	Produs{id=10, nume='Cercei frumosi', pretVanzare=0.0, pretMinim=200.0, an=1990}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=11, nume='Inel vechi', pretVanzare=0.0, pretMinim=600.0, an=1850}Bijuterie{material='Platina', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=32, nume='Inel Aur 18k Diamante BLANCO'S', pretVanzare=0.0, pretMinim=1800.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=33, nume='Bratara Aur 14k LEO MARCUS', pretVanzare=0.0, pretMinim=1300.0, an=2019}Bijuterie{material='Aur alb', piatraPretioasa=false}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a vazut produsele:
+	Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+	Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI}
+	Produs{id=22, nume='Gara Saint Lazare', pretVanzare=0.0, pretMinim=950.0, an=1902}Tablou{numePictor='Claude Monet', culori=ULEI}
+	Produs{id=23, nume='Maci la Argenteuil', pretVanzare=0.0, pretMinim=1200.0, an=1905}Tablou{numePictor='Claude Monet', culori=TEMPERA}
+	Produs{id=24, nume='The Banquet', pretVanzare=0.0, pretMinim=730.0, an=1930}Tablou{numePictor='René Magritte', culori=ULEI}
+	Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'}
+	Produs{id=13, nume='MASA DE BIROU DIABLO', pretVanzare=0.0, pretMinim=500.0, an=2020}Mobila{tip='Birou', material='Metal'}
+	Produs{id=14, nume='Canapea extensibilă Karup', pretVanzare=0.0, pretMinim=800.0, an=2020}Mobila{tip='Sufragerie', material='Lemn'}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=8, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true}
+	Produs{id=9, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false}
+	Produs{id=10, nume='Cercei frumosi', pretVanzare=0.0, pretMinim=200.0, an=1990}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=11, nume='Inel vechi', pretVanzare=0.0, pretMinim=600.0, an=1850}Bijuterie{material='Platina', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=32, nume='Inel Aur 18k Diamante BLANCO'S', pretVanzare=0.0, pretMinim=1800.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=33, nume='Bratara Aur 14k LEO MARCUS', pretVanzare=0.0, pretMinim=1300.0, an=2019}Bijuterie{material='Aur alb', piatraPretioasa=false}
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a vazut produsele:
+	Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+	Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI}
+	Produs{id=22, nume='Gara Saint Lazare', pretVanzare=0.0, pretMinim=950.0, an=1902}Tablou{numePictor='Claude Monet', culori=ULEI}
+	Produs{id=23, nume='Maci la Argenteuil', pretVanzare=0.0, pretMinim=1200.0, an=1905}Tablou{numePictor='Claude Monet', culori=TEMPERA}
+	Produs{id=24, nume='The Banquet', pretVanzare=0.0, pretMinim=730.0, an=1930}Tablou{numePictor='René Magritte', culori=ULEI}
+	Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'}
+	Produs{id=13, nume='MASA DE BIROU DIABLO', pretVanzare=0.0, pretMinim=500.0, an=2020}Mobila{tip='Birou', material='Metal'}
+	Produs{id=14, nume='Canapea extensibilă Karup', pretVanzare=0.0, pretMinim=800.0, an=2020}Mobila{tip='Sufragerie', material='Lemn'}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=8, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true}
+	Produs{id=9, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false}
+	Produs{id=10, nume='Cercei frumosi', pretVanzare=0.0, pretMinim=200.0, an=1990}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=11, nume='Inel vechi', pretVanzare=0.0, pretMinim=600.0, an=1850}Bijuterie{material='Platina', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=32, nume='Inel Aur 18k Diamante BLANCO'S', pretVanzare=0.0, pretMinim=1800.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=33, nume='Bratara Aur 14k LEO MARCUS', pretVanzare=0.0, pretMinim=1300.0, an=2019}Bijuterie{material='Aur alb', piatraPretioasa=false}
+Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1002, nrDoritParticipanti=3, idProdus=14, nrPasiMaxim=6, nrPasiActual=0} a fost creata.
+
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=3, idProdus=14, nrPasiMaxim=6, nrPasiActual=0}.
+
+Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=0} a fost creata.
+
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=0}.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=0}.
+
+Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=0} a fost creata.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=0}.
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost asociat cu Broker 2.
+	Participa la Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=0}.
+
+Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=1}
+
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} s-a retras din:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 14.304393081710165 in:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=1}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 43.31198079032271 in:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=1}
+Licitatie{id=1005, nrDoritParticipanti=4, idProdus=11, nrPasiMaxim=5, nrPasiActual=0} a fost creata.
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1005, nrDoritParticipanti=4, idProdus=11, nrPasiMaxim=5, nrPasiActual=0}.
+
+Pretul maxim din pasul 1: 43.31198079032271 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=2}
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 125.01129859108661 in:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=2}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 163.7837567901442 in:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=2}
+Pretul maxim din pasul 2: 163.7837567901442 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=3}
+
+Licitatie{id=1006, nrDoritParticipanti=3, idProdus=17, nrPasiMaxim=6, nrPasiActual=0} a fost creata.
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1006, nrDoritParticipanti=3, idProdus=17, nrPasiMaxim=6, nrPasiActual=0}.
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 164.00220440910772 in:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=3}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 193.84378563351783 in:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=3}
+Pretul maxim din pasul 3: 193.84378563351783 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=3}
+
+Pasul 4 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=4}
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 214.09913583972084 in:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=4}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 258.895732450987 in:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=4}
+Pretul maxim din pasul 4: 258.895732450987 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=4}
+
+Pasul 5 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=5}
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1002, nrDoritParticipanti=3, idProdus=14, nrPasiMaxim=6, nrPasiActual=0}.
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 188.9996907425611 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a oferit pretul 159.71349714218738 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 113.07361199271178 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+Pretul maxim din pasul 1: 188.9996907425611 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=1}
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=0}.
+
+Pasul 2 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} s-a retras din:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=5}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 263.69799939585255 in:
+	Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=5}
+Pretul maxim din pasul 5: 263.69799939585255 din: Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=5}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} nu participa in licitatie!
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=2} este in desfasurare!
+Licitatie{id=1003, nrDoritParticipanti=3, idProdus=2, nrPasiMaxim=5, nrPasiActual=6} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'}
+	S-a vandut Produs{id=2, nume='Mobila Germania', pretVanzare=0.0, pretMinim=200.0, an=2009}Mobila{tip='Bucatarie', material='Lemn'} la pretul 263.69799939585255
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 265.3698228474576 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a oferit pretul 299.448313566772 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 293.81985137039925 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+Pretul maxim din pasul 2: 299.448313566772 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+
+Licitatie{id=1007, nrDoritParticipanti=4, idProdus=32, nrPasiMaxim=5, nrPasiActual=0} a fost creata.
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1007, nrDoritParticipanti=4, idProdus=32, nrPasiMaxim=5, nrPasiActual=0}.
+
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 354.25178372074026 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a oferit pretul 350.3433364164724 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 324.9766198535724 in:
+	Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+Pretul maxim din pasul 3: 354.25178372074026 din: Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=3}
+
+Licitatie{id=1001, nrDoritParticipanti=3, idProdus=30, nrPasiMaxim=3, nrPasiActual=4} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'}
+	S-a vandut Produs{id=30, nume='Pandantiv Bijuterie Aur Fashion', pretVanzare=0.0, pretMinim=300.0, an=2018}Bijuterie{material='Aur alb', piatraPretioasa=false} la pretul 354.25178372074026
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=1}
+
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 91.87174800787787 in:
+	Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 230.40058568683196 in:
+	Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=1}
+Pretul maxim din pasul 1: 230.40058568683196 din: Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a fost asociat cu Broker 1.
+	Participa la Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=0}.
+
+Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=0} a inceput!
+
+Pasul 1 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=1}
+
+Client{id=105, nume='Marius Vasilescu', adresa='Strada Graţioasa Nr. 12'}PersoanaFizica{dataNastere='08.12.1999'} a vazut produsele:
+	Produs{id=5, nume='Maternitate', pretVanzare=0.0, pretMinim=900.0, an=1866}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI}
+	Produs{id=7, nume='Portret de femeie', pretVanzare=0.0, pretMinim=800.0, an=1870}Tablou{numePictor='Nicolae Grigorescu', culori=TEMPERA}
+	Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI}
+	Produs{id=22, nume='Gara Saint Lazare', pretVanzare=0.0, pretMinim=950.0, an=1902}Tablou{numePictor='Claude Monet', culori=ULEI}
+	Produs{id=23, nume='Maci la Argenteuil', pretVanzare=0.0, pretMinim=1200.0, an=1905}Tablou{numePictor='Claude Monet', culori=TEMPERA}
+	Produs{id=24, nume='The Banquet', pretVanzare=0.0, pretMinim=730.0, an=1930}Tablou{numePictor='René Magritte', culori=ULEI}
+	Produs{id=13, nume='MASA DE BIROU DIABLO', pretVanzare=0.0, pretMinim=500.0, an=2020}Mobila{tip='Birou', material='Metal'}
+	Produs{id=14, nume='Canapea extensibilă Karup', pretVanzare=0.0, pretMinim=800.0, an=2020}Mobila{tip='Sufragerie', material='Lemn'}
+	Produs{id=17, nume='PAT SINGLE CU SOMIERA INCLUSA', pretVanzare=0.0, pretMinim=400.0, an=2020}Mobila{tip='Dormitor', material='Lemn'}
+	Produs{id=18, nume='Pat metalic tip baldachin Guido', pretVanzare=0.0, pretMinim=1500.0, an=2020}Mobila{tip='Dormitor', material='Metal'}
+	Produs{id=8, nume='Inel Printesa', pretVanzare=0.0, pretMinim=500.0, an=1890}Bijuterie{material='Smarald', piatraPretioasa=true}
+	Produs{id=9, nume='Colier plastic', pretVanzare=0.0, pretMinim=20.0, an=2019}Bijuterie{material='Plastic', piatraPretioasa=false}
+	Produs{id=10, nume='Cercei frumosi', pretVanzare=0.0, pretMinim=200.0, an=1990}Bijuterie{material='Aur', piatraPretioasa=false}
+	Produs{id=11, nume='Inel vechi', pretVanzare=0.0, pretMinim=600.0, an=1850}Bijuterie{material='Platina', piatraPretioasa=false}
+	Produs{id=29, nume='Bratara Fossil Sterling Silver', pretVanzare=0.0, pretMinim=270.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=31, nume='Cercei Bijuterii Argint Symbols', pretVanzare=0.0, pretMinim=50.0, an=2019}Bijuterie{material='Argint', piatraPretioasa=false}
+	Produs{id=32, nume='Inel Aur 18k Diamante BLANCO'S', pretVanzare=0.0, pretMinim=1800.0, an=2020}Bijuterie{material='Aur', piatraPretioasa=true}
+	Produs{id=33, nume='Bratara Aur 14k LEO MARCUS', pretVanzare=0.0, pretMinim=1300.0, an=2019}Bijuterie{material='Aur alb', piatraPretioasa=false}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 273.2725225237042 in:
+	Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 306.1004814811341 in:
+	Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=2}
+Pretul maxim din pasul 2: 306.1004814811341 din: Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=3}
+
+Client{id=105, nume='Marius Vasilescu', adresa='Strada Graţioasa Nr. 12'}PersoanaFizica{dataNastere='08.12.1999'} nu participa in licitatie!
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=1} este in desfasurare!
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a oferit pretul 138.07019224847463 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 651.712475437196 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 24.70975294783931 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=1}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 502.7303858530623 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=1}
+Pretul maxim din pasul 1: 651.712475437196 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=1}
+
+Pasul 2 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=2}
+
+Client{id=105, nume='Marius Vasilescu', adresa='Strada Graţioasa Nr. 12'}PersoanaFizica{dataNastere='08.12.1999'} nu participa in licitatie!
+	Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=3} este in desfasurare!
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 346.49120481217517 in:
+	Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 459.50616952393483 in:
+	Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=3}
+Pretul maxim din pasul 3: 459.50616952393483 din: Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=3}
+
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a oferit pretul 939.6460096292302 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 845.7184214121858 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 800.9767623298744 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=2}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 818.0087858512511 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=2}
+Pretul maxim din pasul 2: 939.6460096292302 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=2}
+
+Pasul 3 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=3}
+
+Licitatie{id=1004, nrDoritParticipanti=2, idProdus=21, nrPasiMaxim=3, nrPasiActual=4} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'}
+	S-a vandut Produs{id=21, nume='Cina cea de Taina', pretVanzare=0.0, pretMinim=550.0, an=1740}Tablou{numePictor='Leonardo da Vinci', culori=ULEI} la pretul 459.50616952393483
+Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'} a oferit pretul 1079.9933674431556 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=104, nume='Miruna Inca', adresa='Strada Baru Mare Nr. 14'}PersoanaFizica{dataNastere='14.07.1976'} a oferit pretul 944.6970452679046 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=103, nume='Iulia Vasile', adresa='Strada Argesului Nr. 7'}PersoanaFizica{dataNastere='03.11.1970'} a oferit pretul 1061.2199436210653 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=3}
+Client{id=107, nume='Constantin Anima', adresa='Strada Redea Nr. 125'}PersoanaFizica{dataNastere='18.05.1968'} a oferit pretul 1021.5197252130814 in:
+	Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=3}
+Pretul maxim din pasul 3: 1079.9933674431556 din: Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=3}
+
+Licitatie{id=1000, nrDoritParticipanti=4, idProdus=6, nrPasiMaxim=3, nrPasiActual=4} s-a incheiat! Rezultat: 
+	Licitatia a fost castigata de: Client{id=106, nume='Mircea Rares', adresa='Strada Promoroaca Nr. 74'}PersoanaFizica{dataNastere='01.02.1972'}
+	S-a vandut Produs{id=6, nume='Autoportret', pretVanzare=0.0, pretMinim=1100.0, an=1868}Tablou{numePictor='Nicolae Grigorescu', culori=ULEI} la pretul 1079.9933674431556
